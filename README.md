@@ -107,26 +107,39 @@
 ---
 
 
+<!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tripathi-krishna17&label=Profile%20views&color=0e75b6&style=flat" alt="tripathi-krishna17" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tripathi-krishna17" alt="tripathi-krishna17" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tripathi-krishna17&theme=tokyonight&no-bg=true&no-frame=true" alt="tripathi-krishna17" />
   </a>
 </p>
 
+
 ### 📊 GitHub Stats
 
+<!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathi-krishna17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-krishna17&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" />
 </p>
 
+<!-- GitHub Stats -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripathi-krishna17&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=tripathi-krishna17&show_icons=true&locale=en&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats" />
 </p>
 
+<!-- GitHub Streak -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathi-krishna17&" alt="GitHub Streak" />
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=tripathi-krishna17&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" />
 </p>
+
